@@ -502,3 +502,15 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+game/mod_tf/cfg/server_blacklist.txt
+game/mod_tf/cfg/user.scr
+game/mod_tf/GameState.txt
+game/mod_tf/media/viewed.res
+game/mod_tf/stats.txt
+game/mod_tf/tf2_playerstats.dmx
+game/mod_tf/voice_ban.dt
+game/mod_tf_win64.exe
+game/platform/config/InGameDialogConfig.vdf
+game/platform/config/ServerBrowser.vdf
+game/steam_appid.txt
+game/mod_tf/cfg/local_loadout.txt
