@@ -514,3 +514,5 @@ game/platform/config/InGameDialogConfig.vdf
 game/platform/config/ServerBrowser.vdf
 game/steam_appid.txt
 game/mod_tf/cfg/local_loadout.txt
+/game/mod_tf/maps
+/game/mod_tf/downloadlists
